@@ -1,5 +1,5 @@
 # recognize_captcha
-recognize captcha
+验证码识别程序
 
 文件说明：
 pic为待识别的验证码，共50个，需要预处理。
