@@ -1,0 +1,6 @@
+*.pyc
+.idea
+*.pdf
+*.zip
+im/
+cut_im/
